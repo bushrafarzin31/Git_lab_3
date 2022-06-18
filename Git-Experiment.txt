@@ -1,1 +1,2 @@
 Welcome to ECE 18
+Total students are 60
